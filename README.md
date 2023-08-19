@@ -19,20 +19,30 @@ The "Introduction to Machine Learning" course on Kaggle provides an in-depth int
 - [Course Contents](#course-contents)
 - [Usage](#usage)
 - [Contact](#contact)
-- 
+  
 ## Getting Started
 
 To explore the solutions and code for the course exercises, simply navigate through the directories corresponding to each lesson. Each directory contains the Jupyter Notebook files with detailed explanations, code snippets, and visualizations.
 
 ## Course Contents
 
-1. [Lesson 1: Basic Data Exploration](lesson-02-basic-data-exploration)
+1. Lesson 1: Basic Data Exploration
    - Load and understand your data.
 
-2. [Lesson 3: Your First Machine Learning Model](lesson-03-your-first-machine-learning-model)
+2. Lesson 2: Your First Machine Learning Model
    - Building and training a simple machine learning model.
 
-3.
+3. Lesson 3: Model Validation
+   - Measure the performance of your model, so you can test and compare alternatives.
+
+4. Lesson 4: Underfitting and Oberfitting
+   - Fine-tune your model for better performance.
+     
+5. Lesson 5: Random Forests
+   - Using a more sophisticated machine learning algorithm.
+     
+6. Lesson 6: Machine Learning Competitions 
+   - Enter the world of machine learning competitions to keep improving and see your progress.
 
 ## Usage
 
@@ -46,10 +56,6 @@ Feel free to experiment with the code, modify it, and learn from the solutions p
 
 If you have any questions, suggestions, or feedback about the solutions or the repository, you can reach out to me:
 
-- Email: [your@email.com]
-- LinkedIn: [Your LinkedIn Profile]
-- Kaggle: [Your Kaggle Profile]
-
-## License
-
-The code in this repository is provided under the [MIT License](LICENSE). Unless otherwise noted, this license applies to all solutions and content.
+Email: antonyalbert03@gmail.com
+LinkedIn: www.linkedin.com/in/albert-antony-95299324b
+Kaggle: https://www.kaggle.com/antimoni
